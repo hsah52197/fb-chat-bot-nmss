@@ -671,7 +671,7 @@ class ChatBot(Client):
                   thread_type=thread_type)
 
 
-cookies = {"sb": "p58DY7JgblJeXYX_7wCwgMoD", "datr": "p58DY34j8qwtozv9TCGRoh8F", "wd": "1920x961", "c_user": "100080221119658", "xs": "31%3AOkQOv1UtAGT5xg%3A2%3A1661181949%3A-1%3A-1", "fr": "0WWy3EjvNpOfsrxt6.AWUqb0MeYhnqwCX3wrW8op8j9a0.BjA5-n.tX.AAA.0.0.BjA6AN.AWWAuD5rRFU", "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1661181974631%2C%22v%22%3A1%7D"}
+cookies = {"sb": "p58DY7JgblJeXYX_7wCwgMoD", "datr": "p58DY34j8qwtozv9TCGRoh8F", "wd": "1920x916", "c_user": "100080221119658", "xs": "39%3AmiEejNdZ8zszpA%3A2%3A1661493944%3A-1%3A-1", "fr": "0WWy3EjvNpOfsrxt6.AWWrjHHajwKinRATZwrV8BgOw7E.BjA5-n.tX.AAA.0.0.BjCGK6.AWU5_B8Cx-8"}
 
 
 client=ChatBot("",
