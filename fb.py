@@ -521,10 +521,10 @@ class ChatBot(Client):
                 reply="Thank you 😊"
                 sendMsg()
             elif("Who are you" in msg):
-                reply="I am NTM assistant Bot"
+                reply="I am assistant Bot"
                 sendMsg()
             elif("bot" in msg):
-                reply="hmm.. I am NTM assistant Bot developed by NTM"
+                reply="hmm.. I am assistant Bot developed by Noditt.tech"
                 sendMsg()
             elif("Welcome" in msg):
                 reply="It's my Pleasure 😊"
