@@ -671,7 +671,7 @@ class ChatBot(Client):
                   thread_type=thread_type)
 
 
-cookies = {"sb": "p58DY7JgblJeXYX_7wCwgMoD", "datr": "p58DY34j8qwtozv9TCGRoh8F", "wd": "1920x961", "c_user": "100080221119658", "xs": "38%3AqQwSHWkFLhABdA%3A2%3A1664233141%3A-1%3A-1", "fr": "0jycyWq8avneR4DJj.AWUF4DFrLZcwcoa3v4Gh83mM-PA.BjIcz7.tX.AAA.0.0.BjMi65.AWVzAlJ_6pw", "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664233315691%2C%22v%22%3A1%7D"}
+cookies = {"sb": "9L9GY-ZtBxLgL1dKoYPbfBEp", "datr": "9L9GYy52usoBky2FRv9XJD2W", "c_user": "100080221119658", "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665723442845%2C%22v%22%3A1%7D", "usida": "eyJ2ZXIiOjEsImlkIjoiQXJqcWdyaHEwbXlycyIsInRpbWUiOjE2NjU3MzQyMzd9", "wd": "1920x961", "xs": "10%3AtxgGoHgrPiXisg%3A2%3A1665581102%3A-1%3A-1%3A%3AAcX2wOWd09_i-CPWNL-s9vIGzgTumPH3iZahqLkGGQ", "fr": "0BIEyyvpi0UdevspP.AWWyeQ0B9LIKgHY5gTkPkXuuu1o.BjSqsJ.43.AAA.0.0.BjSqsJ.AWUnYNTHItc"}
 
 
 
